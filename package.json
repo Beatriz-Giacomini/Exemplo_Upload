@@ -1,0 +1,20 @@
+{
+  "name": "exemplo_upload",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Beatriz-Giacomini/Exemplo_Upload#readme",
+  "bugs": {
+    "url": "https://github.com/Beatriz-Giacomini/Exemplo_Upload/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatriz-Giacomini/Exemplo_Upload.git"
+  },
+  "license": "ISC",
+  "author": "Beatriz Vasconcelo",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
