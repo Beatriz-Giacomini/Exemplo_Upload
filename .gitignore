@@ -1,0 +1,5 @@
+# DEPENDÊNCIAS
+node_modules/
+
+#VARIAVÉIS
+.env
